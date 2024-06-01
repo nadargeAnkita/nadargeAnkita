@@ -1,3 +1,5 @@
+<p><img  src="https://img.freepik.com/premium-photo/multi-exposure-forex-chart-drawing-table-background-with-computer-concept-financial-research-analysis-top-view_700248-47075.jpg?w=996" alt="nadargeankita" height="300" width="400" align="center"/></p>
+
 <h1 align="center">Hi 👋, I'm Ankita Nadarge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
