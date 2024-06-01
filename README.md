@@ -1,4 +1,4 @@
-<p><img  src="https://media.licdn.com/dms/image/D5616AQEDHqTQYvmAbQ/profile-displaybackgroundimage-shrink_350_1400/0/1708416649668?e=1722470400&v=beta&t=-fMii4PTuBLo9S6ux8059swhgHomxhz7h_y1_5aUOQg" alt="nadargeankita" height="300" align="center"/></p>
+<p><img  src="https://media.licdn.com/dms/image/D5616AQEDHqTQYvmAbQ/profile-displaybackgroundimage-shrink_350_1400/0/1708416649668?e=1722470400&v=beta&t=-fMii4PTuBLo9S6ux8059swhgHomxhz7h_y1_5aUOQg" alt="nadargeankita" height="200" align="center"/></p>
 
 <h1 align="center">Hi 👋, I'm Ankita Nadarge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
