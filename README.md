@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Ankita Nadarge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p><img  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="nadargeankita" height="200" align="center"/></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadargeankita&label=Profile%20views&color=0e75b6&style=flat" alt="nadargeankita" /> </p>
 
 - 📫 How to reach me **nadargeankita4@gmail.com**
