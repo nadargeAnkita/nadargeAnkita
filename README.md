@@ -1,7 +1,14 @@
-<p><img  src="https://media.licdn.com/dms/image/D5616AQFfIy1sPWiagQ/profile-displaybackgroundimage-shrink_350_1400/0/1717479096092?e=1723075200&v=beta&t=qJX271qNJqTzwUIGOnLUKpUyU-tzxtWxSys8iciIEiU" alt="nadargeankita" height="200" width="1000" align="center"/></p>
+
 
 <h1 align="center">Hi 👋, I'm Ankita Nadarge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  
+</div>
+</details>
 
 <p><img align="right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="nadargeankita" height="200" width="200" /></p>
 
