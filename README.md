@@ -1,7 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Ankita Nadarge</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Data Analyst</h3>
 <details>	
  <summary><b>GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
